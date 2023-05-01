@@ -1,5 +1,5 @@
 # presentation
-Slides and video link (Chinese) for paper reading in optimization and control
+Slides and video link for paper reading in optimization and control
 
 ### 2022. OptNet
 *Amos B, Kolter J Z. Optnet: Differentiable optimization as a layer in neural networks[C]//International Conference on Machine Learning. PMLR, 2017: 136-145.*  
